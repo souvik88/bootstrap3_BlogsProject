@@ -1,0 +1,8 @@
+This Bootstrap 3 project is going to be a simple non-verbose blogs project that shows the popularity of 3 programming languages: JavaScript, Python, Java.
+
+It will show the following information & features on the website:
+1) Google Pie Chart - it will show the popularity of these 3 programming languages.
+2) Google Maps - it will show where I'm currently learning these programming languages so that you can join too.
+3) Bootstrap Carousel - it will show the list of programming languages that I decided to do my market research to understand the popularity of these 3 programming languages.
+4) I will use the Lobster font on the website.
+5) I will deploy the site on Github Pages, very suitable for students who don't have extra cash nor income to host it on paid hosting sites because Github Pages is free.
